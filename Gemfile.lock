@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/bmc/jquery-raty-rails.git
+  revision: a4fb8a9cc7d0b20ab4c0b8d0a6480dd31d4a8c26
+  specs:
+    jquery-raty-rails (0.0.2)
+      rails (>= 3.2.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -268,6 +275,7 @@ DEPENDENCIES
   fog-aws
   jbuilder (~> 2.5)
   jquery-rails
+  jquery-raty-rails!
   listen (>= 3.0.5, < 3.2)
   mini_magick
   mysql2 (>= 0.4.4, < 0.6.0)
